@@ -16,8 +16,8 @@ A simple Python program that checks the strength of a password based on rules li
    ```bash
    python password_strength_checker.py
 # sample output
-  Enter Your password: Nagendra123,123
-  Your password is weak. Try to add uppercase, lowercase and symbols.
+  - Enter Your password: Nagendra123,123
+  - Your password is weak. Try to add uppercase, lowercase and symbols.
 # Technologies used
   - Python 3.13.5
   - 'string' module
